@@ -5,7 +5,7 @@ const YoutubeMp3Downloader = require("youtube-mp3-downloader");
 const bot = new Discord.Client();
 
 
-const Token = 'Njk5NjEzOTA0MDc0MTlmaoPSYCHEk2kl1gGSx9Ipc';
+const Token = 'Njk5NjEzOTA0MDc#LMAOSIKE#kl1gGSx9Ipc';
 
 
 bot.login(Token);
