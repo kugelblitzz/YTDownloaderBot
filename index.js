@@ -13,7 +13,7 @@ bot.login(Token);
 var opts = 
 {
     maxResults: 10,
-    key: 'AIzaSyDV7F0GUtfkpX7sXAYye56c0iSurQSW-sg'
+    key: 'AIzaSyDV@LMAOXD@7sXAYye56c0iSurQSW-sg'
 };
 
 //Configure YoutubeMp3Downloader with your settings
